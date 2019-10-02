@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/Shivatech/</url>
+	      <url>http://localhost:8081/repository/shivatech-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/shivatech1/</url>
+	      <url>http://localhost:8081/repository/shivatech-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
